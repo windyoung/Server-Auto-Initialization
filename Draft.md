@@ -8,6 +8,12 @@
 
 #安装必要的软件包  
 安装  network-manager   
+sysstat  
+nmon  
+podman-docker  
+python-pip  
+golang-go  
+timeshift  
 #创建用户账号  
 修改密码  
 root: passwd root 
